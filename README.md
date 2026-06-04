@@ -16,3 +16,17 @@ This project automates the Tricentis Vehicle Insurance web application using Jav
 
 ## Author
 Rohit Chaurasia
+
+## Screenshots
+
+### Automobile Module
+![Automobile](screenshots/Automobile.png)
+
+### Camper Module
+![Camper](screenshots/Camper.png)
+
+### Motorcycle Module
+![Motorcycle](screenshots/Motorcycle.png)
+
+### Truck Module
+![Truck](screenshots/Truck.png)
